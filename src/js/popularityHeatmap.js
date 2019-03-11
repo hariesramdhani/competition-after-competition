@@ -1,7 +1,5 @@
 export const popularityHeatmap = function(id, filename) {
 
-    
-    
     let margin = {
         top: 20,
         right: 20,
@@ -50,6 +48,8 @@ export const popularityHeatmap = function(id, filename) {
     let legendLabel = null;
 
     d3.tsv(filename, (error, data) => {
+
+        console.log(data);
         
         if (error) {
             throw error;
