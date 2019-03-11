@@ -1,0 +1,28 @@
+name	season	date
+Akademi Fantasi Indosiar	1	12/06/2013
+Akademi Fantasi Indosiar	2	03/13/2004
+Akademi Fantasi Indosiar	3	06/28/2004
+Akademi Fantasi Indosiar	4	06/12/2005
+Akademi Fantasi Indosiar	5	05/21/2006
+Akademi Fantasi Indosiar	6	09/02/2013
+D'Academy	1	02/03/2014
+D'Academy	2	02/02/2015
+D'Academy	3	01/24/2016
+D'Academy	4	01/16/2017
+Indonesian Idol	1	04/09/2004
+Indonesian Idol	2	03/25/2005
+Indonesian Idol	3	04/21/2006
+Indonesian Idol	4	03/30/2007
+Indonesian Idol	5	04/04/2008
+Indonesian Idol	6	03/05/2010
+Indonesian Idol	7	02/17/2002
+Indonesian Idol	8	12/27/2013
+Indonesian Idol	9	12/18/2017
+Mammamia Show Indonesia	1	06/11/2007
+Mammamia Show Indonesia	2	03/10/2008
+Mammamia Show Indonesia	3	02/22/2010
+The Voice Indonesia	1	02/10/2013
+The Voice Indonesia	2	02/26/2016
+The Voice Indonesia	3	11/01/2018
+X Factor Indonesia	1	12/28/2012
+X Factor Indonesia	2	04/03/2015

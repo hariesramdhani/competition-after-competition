@@ -1,0 +1,120 @@
+[
+    {
+        "season": 1,
+        "popularity": {
+            "all": 0.47,
+            "AFI": 0.17,
+            "DA": 0.33,
+            "IMB": 0.42,
+            "II": 0.82,
+            "MMI": 0.25,
+            "RSI": 0.58,
+            "TVI": 0.58,
+            "XFI": 0.67
+        }
+    }, {
+        "season": 2,
+        "popularity": {
+            "all": 0.40,
+            "AFI": 0.33,
+            "DA": 0.67,
+            "IMB": 0.08,
+            "II": 0.73,
+            "MMI": 0.50,
+            "RSI": 0.25,
+            "TVI": 0.58,
+            "XFI": 0.08
+        }
+    }, {
+        "season": 3,
+        "popularity": {
+            "all": 0.33,
+            "AFI": 0.25,
+            "DA": 0.25,
+            "IMB": 0.08,
+            "II": 0.82,
+            "MMI": 0.33,
+            "RSI": "-",
+            "TVI": "-",
+            "XFI": "-"
+        }
+    }, {
+        "season": 4,
+        "popularity": {
+            "all": 0.25,
+            "AFI": 0.42,
+            "DA": 0.08,
+            "IMB": "-",
+            "II": 0.55,
+            "MMI": 0.33,
+            "RSI": "-",
+            "TVI": "-",
+            "XFI": "-"
+        }
+    }, {
+        "season": 5,
+        "popularity": {
+            "all": 0.46,
+            "AFI": 0.42,
+            "DA": "-",
+            "IMB": "-",
+            "II": 0.55,
+            "MMI": "-",
+            "RSI": "-",
+            "TVI": "-",
+            "XFI": "-"
+        }
+    }, {
+        "season": 6,
+        "popularity": {
+            "all": 0.27,
+            "AFI": "-",
+            "DA": "-",
+            "IMB": "-",
+            "II": 0.27,
+            "MMI": "-",
+            "RSI": "-",
+            "TVI": "-",
+            "XFI": "-"
+        }
+    }, {
+        "season": 7,
+        "popularity": {
+            "all": 0.36,
+            "AFI": "-",
+            "DA": "-",
+            "IMB": "-",
+            "II": 0.36,
+            "MMI": "-",
+            "RSI": "-",
+            "TVI": "-",
+            "XFI": "-"
+        }
+    }, {
+        "season": 8,
+        "popularity": {
+            "all": 0.82,
+            "AFI": "-",
+            "DA": "-",
+            "IMB": "-",
+            "II": 0.82,
+            "MMI": "-",
+            "RSI": "-",
+            "TVI": "-",
+            "XFI": "-"
+        }
+    }, {
+        "season": 9,
+        "popularity": {
+            "all": 0.73,
+            "AFI": "-",
+            "DA": "-",
+            "IMB": "-",
+            "II": 0.73,
+            "MMI": "-",
+            "RSI": "-",
+            "TVI": "-",
+            "XFI": "-"
+        }
+    }
+]

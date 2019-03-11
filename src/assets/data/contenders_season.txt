@@ -1,0 +1,371 @@
+name	gender	season	year	rank	competition	awards_nominated	awards_won	career	monthly_listener
+Veri Affandi	M	1	2003	1	AFI	0	0	No	0
+Petrus Kia Suban	M	1	2003	2	AFI	0	0	No	0
+Mawar Dhimas Febra	F	1	2003	3	AFI	0	0	No	0
+Ve Nazarina	F	1	2003	4	AFI	0	0	No	0
+Rini Astuti	F	1	2003	5	AFI	0	0	No	0
+Dicky Haryadi	M	1	2003	6	AFI	0	0	FTV	0
+Romi Kartiko	M	1	2003	7	AFI	0	0	Solo	0
+Melissa Wuwungan	F	1	2003	8	AFI	0	0	No	0
+Ismail Rojali	M	1	2003	9	AFI	0	0	No	0
+Yenny Rizkyanti	F	1	2003	10	AFI	0	0	No	0
+Herawati	F	1	2003	11	AFI	0	0	No	0
+Dewi Lastmi	M	1	2003	12	AFI	0	0	No	0
+Theodora Meilani	F	2	2004	1	AFI	0	0	"Solo, FTV"	1355
+Moch. Haykal	M	2	2004	2	AFI	0	0	No	0
+Mickey Octapatika	M	2	2004	3	AFI	0	0	No	0
+Nia Kartika Putri	F	2	2004	4	AFI	0	0	No	0
+Cindy Sibarani	F	2	2004	5	AFI	0	0	"Solo, FTV"	13
+Setya Adi Dharma	M	2	2004	6	AFI	0	0	No	0
+Aditya Putra Widjaya	M	2	2004	7	AFI	0	0	Band Member	0
+Pasha Dina Widjaya	F	2	2004	8	AFI	0	0	No	0
+Febriane Nur Permata	F	2	2004	9	AFI	0	0	No	0
+Ratna Yulia Nining	F	2	2004	10	AFI	0	0	No	0
+Amalia Soraya	F	2	2004	11	AFI	0	0	FTV	0
+Jovita Indah Puspitasari	F	2	2004	12	AFI	0	0	No	0
+Putu Sutha Natawijaya	F	3	2004	1	AFI	0	0	No	0
+Alvin Kurniawan	M	3	2004	2	AFI	0	0	No	0
+Leo Mokodompit	M	3	2004	3	AFI	0	0	Solo	0
+Eky Renata	F	3	2004	4	AFI	0	0	"Solo, FTV"	0
+Dessy Febianti	F	3	2004	5	AFI	0	0	No	0
+Randy Larry Heratta	M	3	2004	6	AFI	0	0	No	0
+Adinda Intan Permatasari	F	3	2004	7	AFI	0	0	No	0
+Lestari Utami	F	3	2004	8	AFI	0	0	No	0
+Yuke Elvandari	F	3	2004	9	AFI	0	0	"FTV, Vocal Group"	0
+Jelita Novalintina	F	3	2004	10	AFI	0	0	No	0
+Shelly Puspita	F	3	2004	11	AFI	0	0	No	0
+Ade Alfonso Pattihahuwan 	M	4	2005	1	AFI	0	0	No	1
+Indri Tribuana 	F	4	2005	2	AFI	0	0	Solo	0
+Jissindo Beaugeste	M	4	2005	3	AFI	0	0	No	0
+Prastiwi Dwiarti	F	4	2005	4	AFI	0	0	"Solo, Vocal Group"	1
+Luri Dini Ayu Safitri	F	4	2005	5	AFI	0	0	Solo	0
+Purnawan Anjar	M	4	2005	6	AFI	0	0	No	0
+Rizwar Rizali	M	4	2005	7	AFI	0	0	FTV	0
+Kartika Yudia Ramlan	F	4	2005	8	AFI	0	0	"Solo, Vocal Group"	0
+Tika Ramlan	F	4	2005	9	AFI	0	0	No	438
+Fibri Hening	F	4	2005	10	AFI	0	0	No	0
+Yongki Dri Atmoko	M	4	2005	11	AFI	0	0	No	0
+I Dewa Ayu Anggie 	M	4	2005	12	AFI	0	0	No	0
+Widi Nugroho	M	5	2006	1	AFI	0	0	"Solo, Band Member"	45976
+Mega Dirilla	F	5	2006	2	AFI	0	0	Solo	5
+Andi Nugroho 	M	5	2006	3	AFI	0	0	No	0
+Arif Taufan	M	5	2006	4	AFI	0	0	No	0
+Arin Wolayan	F	5	2006	5	AFI	0	0	Singer	14403
+Hendrizal	M	5	2006	6	AFI	0	0	No	0
+Rita Tomasoa	F	5	2006	7	AFI	0	0	No	0
+Maolyza Oktavianus	F	5	2006	8	AFI	0	0	Band Member	0
+Luh Ardianthi	F	5	2006	9	AFI	0	0	No	0
+Umuru Takaeda	M	5	2006	10	AFI	0	0	Band Member	0
+Herry Ansyar	M	5	2006	11	AFI	0	0	No	0
+Vindra Artha Kusuma	F	5	2006	12	AFI	0	0	No	0
+Joy Tobing	F	1	2004	1	Indonesian Idol	0	0	Solo	22048
+Delon Thamrin	M	1	2004	2	Indonesian Idol	1	0	"Solo, FTV, Movie"	26266
+Nania Yusuf	F	1	2004	3	Indonesian Idol	0	0	Solo	1477
+Helena Andrian	F	1	2004	4	Indonesian Idol	0	0	Solo	0
+Michael Jakarimilena	M	1	2004	5	Indonesian Idol	0	0	"Solo, Movie"	0
+Lucky Octavian	M	1	2004	6	Indonesian Idol	0	0	Solo	727
+Bona Hutahaen	M	1	2004	7	Indonesian Idol	0	0	No	0
+Karen Pooroe	F	1	2004	8	Indonesian Idol	0	0	Solo	0
+Winda Viska	F	1	2004	9	Indonesian Idol	0	0	"Solo, TV Soap Opera"	1466
+Agatha Suci	F	1	2004	10	Indonesian Idol	0	0	Solo	39237
+Andika Pratama	M	1	2004	11	Indonesian Idol	0	0	No	0
+Mike Mohede	M	2	2005	1	Indonesian Idol	5	0	"Solo, Movie"	133566
+Judika Sihotang	M	2	2005	2	Indonesian Idol	24	9	"Solo, Movie"	362270
+Firman Siagian	M	2	2005	3	Indonesian Idol	0	0	Solo	821
+Monita Tahalea	F	2	2005	4	Indonesian Idol	0	0	Solo	322678
+Harry Mantong	M	2	2005	5	Indonesian Idol	0	0	Solo	0
+Maya Damayanti	F	2	2005	6	Indonesian Idol	0	0	Solo	360
+Glenn Waas	M	2	2005	7	Indonesian Idol	0	0	No	160
+Yudistira Manupassa	M	2	2005	8	Indonesian Idol	0	0	No	0
+Vira Puspitasari	F	2	2005	9	Indonesian Idol	0	0	No	0
+Wisnu Prabowo 	M	2	2005	10	Indonesian Idol	0	0	Solo	47
+Ronald Silitonga	M	2	2005	11	Indonesian Idol	0	0	Solo	9
+Danar Karolus	M	2	2005	12	Indonesian Idol	0	0	No	0
+Ihsan Tarore	M	3	2006	1	Indonesian Idol	0	0	"Solo, Movie, FTV"	768
+Dirly Dave Sompie	M	3	2006	2	Indonesian Idol	0	0	"Solo, Movie, FTV"	7178
+Ghea Oktarin	F	3	2006	3	Indonesian Idol	0	0	Solo	0
+Nobo Sasamu	M	3	2006	4	Indonesian Idol	0	0	Solo	11
+Maria Priscilla	F	3	2006	5	Indonesian Idol	0	0	Solo	71
+Ilham Basso	M	3	2006	6	Indonesian Idol	0	0	No	0
+Christy Claudia	F	3	2006	7	Indonesian Idol	0	0	Solo	0
+Cecilia Dwi Hapsari	F	3	2006	8	Indonesian Idol	0	0	Solo	0
+Brinet Sudjana	F	3	2006	9	Indonesian Idol	0	0	No	0
+Teza Sumendra	F	3	2006	10	Indonesian Idol	0	0	Solo	25044
+Lee Kulalean	M	3	2006	11	Indonesian Idol	0	0	Solo	0
+Elisabeth Dwi Purna	F	3	2006	12	Indonesian Idol	0	0	No	0
+Rinni Wulandari	F	4	2007	1	Indonesian Idol	6	0	Solo	28072
+Wilson Maiseka	M	4	2007	2	Indonesian Idol	0	0	Solo	182
+Gabriela Christy	F	4	2007	3	Indonesian Idol	0	0	Solo	0
+Sarah Hadju	F	4	2007	4	Indonesian Idol	0	0	"Solo, Band Member"	14
+Fandy Santoso	M	4	2007	5	Indonesian Idol	0	0	"Solo, Band Member"	1949
+Dimas Mochamad	M	4	2007	6	Indonesian Idol	0	0	No	0
+Julian Syahputra	M	4	2007	7	Indonesian Idol	0	0	Solo	0
+Priska Paramita	F	4	2007	8	Indonesian Idol	0	0	No	0
+Stevano Andrie	M	4	2007	9	Indonesian Idol	0	0	No	0
+Marsya Nada	F	4	2007	10	Indonesian Idol	0	0	No	0
+Gana Eka	F	4	2007	11	Indonesian Idol	0	0	No	0
+Rismawati	F	4	2007	12	Indonesian Idol	0	0	No	0
+Januarisman Runtuwene	M	5	2008	1	Indonesian Idol	0	0	Solo	0
+Gisella Anastasia	F	5	2008	2	Indonesian Idol	0	0	"Solo, Movie, FTV, Commercial, Soap Opera"	123773
+Patudu Syammayim	M	5	2008	3	Indonesian Idol	0	0	Solo	10543
+Kunto Aji	M	5	2008	4	Indonesian Idol	3	1	"Solo, Movie"	264044
+Dyna Fransisca	F	5	2008	5	Indonesian Idol	0	0	No	0
+Obet Habibu	M	5	2008	6	Indonesian Idol	0	0	Solo	0
+Andy Makaruwung	M	5	2008	7	Indonesian Idol	0	0	No	0
+Ibeth Estrya	F	5	2008	8	Indonesian Idol	0	0	No	0
+Dede Richo	M	5	2008	9	Indonesian Idol	0	0	No	0
+Thefanie Florina	F	5	2008	10	Indonesian Idol	0	0	"Solo, Sitcom, TV Show Host, Video Clip"	0
+Della Setia	F	5	2008	11	Indonesian Idol	0	0	No	0
+Safira Rizkika	F	5	2008	12	Indonesian Idol	0	0	No	0
+Igo Pentury	M	6	2010	1	Indonesian Idol	0	0	Solo	1
+Citra Scholastika	F	6	2010	2	Indonesian Idol	15	4	Solo	68913
+Gilang Saputra	M	6	2010	3	Indonesian Idol	0	0	No	0
+Ray Generies	M	6	2010	4	Indonesian Idol	0	0	No	0
+Tesa Novliana 	F	6	2010	5	Indonesian Idol	0	0	No	0
+Windra Elfi	F	6	2010	6	Indonesian Idol	0	0	No	0
+Rio Basier	M	6	2010	7	Indonesian Idol	0	0	Solo	8563
+Keyko Vredhe	F	6	2010	8	Indonesian Idol	0	0	No	0
+Diana Tumewa	M	6	2010	9	Indonesian Idol	0	0	No	0
+Fendi	M	6	2010	10	Indonesian Idol	0	0	No	0
+Dea Larasati	F	6	2010	11	Indonesian Idol	0	0	No	0
+Mona Lengkong 	F	6	2010	12	Indonesian Idol	0	0	No	0
+Regina Ivanova	F	7	2012	1	Indonesian Idol	0	0	Solo	246
+Kamasean Matthews	F	7	2012	2	Indonesian Idol	0	0	Solo	270
+Prattyoda Bhayangkara	M	7	2012	3	Indonesian Idol	0	0	No	0
+Dionysius Agung	M	7	2012	4	Indonesian Idol	0	0	No	0
+Febri Yoga	M	7	2012	5	Indonesian Idol	0	0	Solo	294
+Maria Rosalia	F	7	2012	6	Indonesian Idol	0	0	No	0
+Dera Siagian	F	7	2012	7	Indonesian Idol	0	0	"Solo, Movie"	15
+Rosandy Nugroho	M	7	2012	8	Indonesian Idol	0	0	No	0
+Rio Agung	M	7	2012	9	Indonesian Idol	0	0	No	0
+Ivan Saputra	M	7	2012	10	Indonesian Idol	0	0	No	0
+Belinda Fueza	F	7	2012	11	Indonesian Idol	0	0	No	0
+Khanza Dinar	F	7	2012	12	Indonesian Idol	0	0	No	0
+Nowela Elizabeth 	F	8	2013	1	Indonesian Idol	0	0	Singer	13110
+Husein Alatas	M	8	2013	2	Indonesian Idol	0	0	"Movie, TV Soap Opera, Solo"	340
+Di Muhammad Devirzha	M	8	2013	3	Indonesian Idol	6	2	"Solo, TV Host"	682391
+Yuka Tamada	F	8	2013	4	Indonesian Idol	0	0	"Solo, Movie, TV Soap Opera"	5028
+Yusuf Nur Ubay	M	8	2013	5	Indonesian Idol	0	0	Solo	1930
+Giofanny Elliandrian	M	8	2013	6	Indonesian Idol	0	0	No	0
+Windy Yunita	F	8	2013	7	Indonesian Idol	0	0	Solo	42
+Maesarah Nurzaka	F	8	2013	8	Indonesian Idol	0	0	No	0
+Yunita Nursetia	F	8	2013	9	Indonesian Idol	0	0	No	0
+Miranti Yassovi	F	8	2013	10	Indonesian Idol	0	0	Solo	0
+Dewi Puspita Andini	F	8	2013	11	Indonesian Idol	0	0	Solo	12670
+Ryan D'Angga	M	8	2013	12	Indonesian Idol	0	0	Solo	0
+Maria Simorangkir	F	9	2017	1	Indonesian Idol	0	0	Solo	44083
+Ahmad Abdul	M	9	2017	2	Indonesian Idol	0	0	Solo	73261
+Joanita Veroni	F	9	2017	3	Indonesian Idol	0	0	Solo	0
+Ayu Putrisundari	F	9	2017	4	Indonesian Idol	0	0	Solo	14771
+Ghea Indrawari	F	9	2017	5	Indonesian Idol	0	0	Solo	113213
+Marion Jola	F	9	2017	6	Indonesian Idol	7	2	Solo	578250
+Bianca Jodie	F	9	2017	7	Indonesian Idol	0	0	"Solo, Commercial"	665486
+Glen Samuel	M	9	2017	8	Indonesian Idol	0	0	Solo	0
+Chandra Wahyudi	M	9	2017	9	Indonesian Idol	0	0	No	0
+Abraham Kevin Aprilio	M	9	2017	10	Indonesian Idol	0	0	No	0
+Withney Julinetha	F	9	2017	11	Indonesian Idol	0	0	No	0
+Mona Magang	F	9	2017	12	Indonesian Idol	0	0	No	0
+Fatin Shidqia	F	1	2012	1	X Factor Indonesia	65	30	"Solo, Commercial, Movie"	130916
+Novita Dewi	F	1	2012	2	X Factor Indonesia	0	0	Solo	485
+Nu Dimension	G	1	2012	3	X Factor Indonesia	0	0	Boyband	0
+Mikha Angelo	M	1	2012	4	X Factor Indonesia	3	2	Band Member	882571
+Shena Malsiana	F	1	2012	5	X Factor Indonesia	0	0	Solo	83
+Isa Raja	M	1	2012	6	X Factor Indonesia	0	0	Solo	476
+Gede Bagus	M	1	2012	7	X Factor Indonesia	0	0	Solo	58
+Alex Rudiart 	M	1	2012	8	X Factor Indonesia	0	0	Solo	913
+Agus Hafiluddin	M	1	2012	9	X Factor Indonesia	0	0	No	0
+Ilusia Girls	G	1	2012	10	X Factor Indonesia	0	0	No	0
+Yohanna Febrianti	F	1	2012	11	X Factor Indonesia	0	0	No	0
+Dalagita	G	1	2012	12	X Factor Indonesia	0	0	No	0
+Jebe & Patty 	G	2	2015	1	X Factor Indonesia	0	0	Duo	437
+Clarisa Dewi	F	2	2015	2	X Factor Indonesia	0	0	No	0
+Desy Natalia	F	2	2015	3	X Factor Indonesia	0	0	No	0
+Ramli Nurhappi	M	2	2015	4	X Factor Indonesia	0	0	No	0
+Aldy Saputra	M	2	2015	5	X Factor Indonesia	0	0	No	0
+Ajeng Astiani	F	2	2015	6	X Factor Indonesia	0	0	No	0
+Angela July	F	2	2015	7	X Factor Indonesia	0	0	No	0
+Ismi Riza	M	2	2015	8	X Factor Indonesia	0	0	No	0
+Sulle Wijaya	M	2	2015	9	X Factor Indonesia	0	0	No	0
+Riska Wulandari	F	2	2015	10	X Factor Indonesia	0	0	No	0
+Classy	G	2	2015	11	X Factor Indonesia	0	0	No	0
+Jad n Sugy	G	2	2015	12	X Factor Indonesia	0	0	No	0
+Billy Simpson	M	1	2013	1	The Voice Indonesia	0	0	"Solo, Movie, Commercial"	29532
+Leona Dwi Untari	F	1	2013	2	The Voice Indonesia	0	0	No	0
+Tiara Degrasia	F	1	2013	3	The Voice Indonesia	0	0	No	0
+Agseisa Galuh Putri	F	1	2013	4	The Voice Indonesia	0	0	Solo	0
+Abdi Siahaan 	M	1	2013	5	The Voice Indonesia	0	0	No	0
+Ferdinand Pardosi	M	1	2013	6	The Voice Indonesia	0	0	Solo	195
+Pritta Kartika	F	1	2013	7	The Voice Indonesia	0	0	Solo	18
+Saptoto Nugroho	M	1	2013	8	The Voice Indonesia	0	0	Solo	1
+Al Fattah	M	1	2013	9	The Voice Indonesia	0	0	Band Member	0
+Luise Aminah Najib	F	1	2013	10	The Voice Indonesia	0	0	No	0
+Monika Yulianti	F	1	2013	11	The Voice Indonesia	0	0	Solo	3
+Santi Danametta	F	1	2013	12	The Voice Indonesia	0	0	No	0
+Mario G. Klau	M	2	2016	1	The Voice Indonesia	0	0	Solo	132647
+Sekar Teja	F	2	2016	2	The Voice Indonesia	0	0	Solo	954
+Fitri Novianti	F	2	2016	3	The Voice Indonesia	0	0	Solo	328
+Nina Yunken	F	2	2016	4	The Voice Indonesia	0	0	Solo	62
+Aline	F	2	2016	5	The Voice Indonesia	0	0	No	0
+Rifany Maria	F	2	2016	6	The Voice Indonesia	0	0	No	0
+Ario Setiawan	M	2	2016	7	The Voice Indonesia	0	0	No	0
+Gloria Jessica	F	2	2016	8	The Voice Indonesia	0	0	Solo	148039
+Maria Stella	F	2	2016	9	The Voice Indonesia	0	0	Solo	46
+Nancy Ponto	F	2	2016	10	The Voice Indonesia	0	0	No	0
+Dewi Kisworo	F	2	2016	11	The Voice Indonesia	0	0	No	0
+Refita Mega 	F	2	2016	12	The Voice Indonesia	0	0	Solo	1
+Paramytha Lestari	F	1	2007	1	Mamamia Show Indonesia	0	0	"Solo, Musical"	205542
+Margareth Siagian	F	1	2007	2	Mamamia Show Indonesia	1	0	"Solo, Duo"	12794
+Fiersha Hanifah	F	1	2007	3	Mamamia Show Indonesia	0	0	No	0
+Ajeng Astiani	F	1	2007	4	Mamamia Show Indonesia	0	0	No	0
+Rebecca Louis Quinto	F	1	2007	5	Mamamia Show Indonesia	0	0	No	0
+Nadya Rafika	F	1	2007	6	Mamamia Show Indonesia	0	0	"Solo, Commercial"	30
+Rybka Marya Wijaya	F	1	2007	7	Mamamia Show Indonesia	0	0	No	0
+Ratu Juwita Lubis	F	1	2007	8	Mamamia Show Indonesia	0	0	No	0
+Anty Ramadhani	F	1	2007	9	Mamamia Show Indonesia	0	0	No	0
+Cinta Guitarini	F	1	2007	10	Mamamia Show Indonesia	0	0	No	0
+Sheila Marsheila	F	1	2007	11	Mamamia Show Indonesia	0	0	No	0
+Disti Rengganis	F	1	2007	12	Mamamia Show Indonesia	0	0	No	0
+Maria Anggraini Habeahan	F	2	2008	1	Mamamia Show Indonesia	0	0	No	0
+Wizzy Williana Saraswati	F	2	2008	2	Mamamia Show Indonesia	0	0	Solo	0
+Shelly Olivia	F	2	2008	3	Mamamia Show Indonesia	0	0	No	0
+Brenda G. Bolang	F	2	2008	4	Mamamia Show Indonesia	0	0	Solo	0
+Fira Mustika	F	2	2008	5	Mamamia Show Indonesia	0	0	No	0
+Vannie Lumbangaol	F	2	2008	6	Mamamia Show Indonesia	0	0	No	0
+Muti Andini	F	2	2008	7	Mamamia Show Indonesia	0	0	No	0
+Vanya Pranashinta	F	2	2008	8	Mamamia Show Indonesia	0	0	Solo	0
+Dio Hapsari	F	2	2008	9	Mamamia Show Indonesia	0	0	No	0
+Dara Rizki Ruhiana	F	2	2008	10	Mamamia Show Indonesia	9	9	Band Member	17179
+Feby Marcelia 	F	2	2008	11	Mamamia Show Indonesia	0	0	"Solo, FTV, Commercial, Sitcom, TV Soap Opera, Movie"	0
+Nini Fransiska	F	2	2008	12	Mamamia Show Indonesia	0	0	TV Reality Show	0
+Inka Mayang Marindra	F	3	2010	1	Mamamia Show Indonesia	0	0	Solo	0
+Putri	F	3	2010	2	Mamamia Show Indonesia	0	0	No	0
+Ingga Mawardy	F	3	2010	3	Mamamia Show Indonesia	0	0	No	0
+Nona	F	3	2010	4	Mamamia Show Indonesia	0	0	No	0
+Nindy Kartika	F	3	2010	5	Mamamia Show Indonesia	0	0	No	0
+Intan	F	3	2010	6	Mamamia Show Indonesia	0	0	No	0
+Selvi Kitty	F	3	2010	7	Mamamia Show Indonesia	0	0	Solo	11722
+Hanna Lazuardy	F	3	2010	8	Mamamia Show Indonesia	0	0	Solo	0
+Vebby Palwinta	F	3	2010	9	Mamamia Show Indonesia	0	0	"Movie, TV Soap Opera, FTV"	0
+Tari	F	3	2010	10	Mamamia Show Indonesia	0	0	No	0
+Lisca Dewantari	F	3	2010	11	Mamamia Show Indonesia	0	0	No	0
+Enissita	F	3	2010	12	Mamamia Show Indonesia	0	0	No	0
+Indah Nevertari	F	1	2014	1	Rising Star Indonesia	4	1	"Solo, Commercial, TV Host"	1143
+Hanin Dhiya	F	1	2014	2	Rising Star Indonesia	0	0	Solo	719095
+Ghaitsa Kenang	F	1	2014	3	Rising Star Indonesia	0	0	Solo	12424
+Bluesmates	G	1	2014	4	Rising Star Indonesia	0	0	Band Member	341
+Evony Arty	G	1	2014	5	Rising Star Indonesia	0	0	Solo	398
+Reyna Qotrunnada	F	1	2014	6	Rising Star Indonesia	0	0	No	0
+Sonny Saragih	M	1	2014	7	Rising Star Indonesia	0	0	No	0
+Talita Arsyta	F	1	2014	8	Rising Star Indonesia	0	0	No	0
+Mega Mauro	F	1	2014	9	Rising Star Indonesia	0	0	Solo	43
+CND	G	1	2014	10	Rising Star Indonesia	0	0	Band Member	108
+eRKa	G	1	2014	11	Rising Star Indonesia	0	0	No	0
+Dimas Anindita 	M	1	2014	12	Rising Star Indonesia	0	0	No	0
+Andmesh Kamaleng	M	2	2016	1	Rising Star Indonesia	0	0	Solo	312112
+Fauziyah Khalida	F	2	2016	2	Rising Star Indonesia	0	0	No	0
+ZerosiX Park	G	2	2016	3	Rising Star Indonesia	0	0	Band Member	178
+Trio Wijaya	G	2	2016	4	Rising Star Indonesia	0	0	Solo	1336
+Fazrun	M	2	2016	5	Rising Star Indonesia	0	0	No	0
+Agung Mieke 	M	2	2016	6	Rising Star Indonesia	0	0	No	0
+Bening Ayu	F	2	2016	7	Rising Star Indonesia	0	0	No	0
+Julian	M	2	2016	8	Rising Star Indonesia	0	0	No	0
+Fadhilah Intan	F	2	2016	9	Rising Star Indonesia	0	0	No	0
+Anisa Cahayani	F	2	2016	10	Rising Star Indonesia	0	0	No	0
+Valeri Adelia	F	2	2016	11	Rising Star Indonesia	0	0	No	0
+Natasya Elvira	F	2	2016	12	Rising Star Indonesia	0	0	No	0
+Klantink	G	1	2010	1	Indonesia Mencari Bakat	0	0	No	0
+Putri Ayu	F	1	2010	2	Indonesia Mencari Bakat	0	0	Solo	716
+Brandon De Angelo	M	1	2010	3	Indonesia Mencari Bakat	0	0	"Movie, Commercial"	0
+Hudson Prananjaya	M	1	2010	4	Indonesia Mencari Bakat	0	0	Movie	0
+Funky Papua	G	1	2010	5	Indonesia Mencari Bakat	0	0	No	0
+Rumingkang	G	1	2010	6	Indonesia Mencari Bakat	0	0	No	0
+JP Millenix	F	1	2010	7	Indonesia Mencari Bakat	0	0	"TV Soap Opera, TV Host"	0
+Fay Nabila	F	1	2010	8	Indonesia Mencari Bakat	0	0	"TV Show, TV Soap Opera, FTV, Sitcom, Movie"	0
+Belda	M	1	2010	9	Indonesia Mencari Bakat	0	0	No	0
+Bonita	F	1	2010	10	Indonesia Mencari Bakat	0	0	No	0
+Berto Pah	M	1	2010	11	Indonesia Mencari Bakat	0	0	No	0
+Janice & Ryan	G	1	2010	12	Indonesia Mencari Bakat	0	0	No	0
+Uma Tobing	F	2	2011	1	Indonesia Mencari Bakat	0	0	Solo	0
+Ale Soul	G	2	2011	2	Indonesia Mencari Bakat	0	0	No	0
+Umar Adi Ali	M	2	2011	3	Indonesia Mencari Bakat	0	0	No	0
+Little Queen Band	G	2	2011	4	Indonesia Mencari Bakat	0	0	No	0
+Yoseph A Mooi	M	2	2011	5	Indonesia Mencari Bakat	0	0	No	0
+Nawawi Ansamble	G	2	2011	6	Indonesia Mencari Bakat	0	0	No	0
+Jack Hanafie	M	2	2011	7	Indonesia Mencari Bakat	0	0	No	0
+Andhika Surya	M	2	2011	8	Indonesia Mencari Bakat	0	0	No	0
+Pasbrama	G	2	2011	9	Indonesia Mencari Bakat	0	0	No	0
+Ladysoul	G	2	2011	10	Indonesia Mencari Bakat	0	0	No	0
+Ritchie Rivaldy	M	2	2011	11	Indonesia Mencari Bakat	0	0	No	0
+Stephany Patilaya	F	2	2011	12	Indonesia Mencari Bakat	0	0	No	0
+Sandrina Azzahra	F	3	2013	1	Indonesia Mencari Bakat	0	0	No	0
+Vina Candrawati	F	3	2013	2	Indonesia Mencari Bakat	0	0	No	0
+Josua Pangaribuan	M	3	2013	3	Indonesia Mencari Bakat	0	0	No	0
+Ardhy Dwiki	M	3	2013	4	Indonesia Mencari Bakat	0	0	No	0
+Yohanna Harso	F	3	2013	5	Indonesia Mencari Bakat	0	0	No	0
+Abby Gallaby	F	3	2013	6	Indonesia Mencari Bakat	0	0	No	0
+Street Pass Junior	G	3	2013	7	Indonesia Mencari Bakat	0	0	No	0
+Gifty Toisuta	F	3	2013	8	Indonesia Mencari Bakat	0	0	No	0
+Aditya Yusuf	M	3	2013	9	Indonesia Mencari Bakat	0	0	No	0
+Jessica Bennett	F	3	2013	10	Indonesia Mencari Bakat	0	0	Duo	433
+Indah Winar	F	3	2013	11	Indonesia Mencari Bakat	0	0	No	0
+Street Evolution Crew	G	3	2013	12	Indonesia Mencari Bakat	0	0	No	0
+Rismawanda	F	4	2014	1	Indonesia Mencari Bakat	0	0	No	0
+Rega	M	4	2014	2	Indonesia Mencari Bakat	0	0	No	0
+Eka dan Dwi	G	4	2014	3	Indonesia Mencari Bakat	0	0	No	0
+Nuca	M	4	2014	4	Indonesia Mencari Bakat	0	0	No	0
+Floramora Black Soldier	G	4	2014	5	Indonesia Mencari Bakat	0	0	No	0
+Lyodra Ginting	F	4	2014	6	Indonesia Mencari Bakat	0	0	No	0
+Kalangkang	G	4	2014	7	Indonesia Mencari Bakat	0	0	No	0
+Adipha	M	4	2014	8	Indonesia Mencari Bakat	0	0	No	0
+Monic Mandagli	F	4	2014	9	Indonesia Mencari Bakat	0	0	No	0
+Fikih	M	4	2014	10	Indonesia Mencari Bakat	0	0	No	0
+Nyoman David	M	4	2014	11	Indonesia Mencari Bakat	0	0	No	0
+Nathan Gulo	M	4	2014	12	Indonesia Mencari Bakat	0	0	No	0
+Lesti Andryani	F	1	2014	1	D'Academy	12	9	"TV Soap Opera, FTV"	66824
+Nur Aty	F	1	2014	2	D'Academy	0	0	Solo	304
+Edfrans Angga	M	1	2014	3	D'Academy	0	0	No	0
+Subro Al-Farizhi	M	1	2014	4	D'Academy	0	0	Solo	339
+Ikif Khawazima	F	1	2014	5	D'Academy	0	0	Solo	410
+Eka Pradona	F	1	2014	6	D'Academy	0	0	No	0
+Glenn S. Rumbino	M	1	2014	7	D'Academy	0	0	No	0
+Febrohadi Kisyanto	M	1	2014	8	D'Academy	0	0	No	0
+Dedy Suwandi	M	1	2014	9	D'Academy	0	0	No	0
+Eva Diarti Dinar	F	1	2014	10	D'Academy	0	0	No	0
+Ariyanto	M	1	2014	11	D'Academy	0	0	No	0
+Zahdan Hasan	M	1	2014	12	D'Academy	0	0	No	0
+Evi Anggraini	F	2	2015	1	D'Academy	2	0	"Solo, FTV"	834
+Danang Pradana Dieva	M	2	2015	2	D'Academy	11	2	"Solo, FTV"	1692
+Irwan Krisdiyanto	M	2	2015	3	D'Academy	2	1	"Solo, FTV"	209
+Reza Zakarya Mahdami	M	2	2015	4	D'Academy	1	0	"Solo, FTV"	57
+Ika Sugiyarti	F	2	2015	5	D'Academy	0	0	No	0
+Ady Kasipahu	M	2	2015	6	D'Academy	0	0	No	0
+Ega Noviantika	F	2	2015	7	D'Academy	0	0	"Solo, TV Soap Opera, FTV"	226
+Endah Purwaningsih	F	2	2015	8	D'Academy	1	0	"Solo, FTV"	0
+Intan Nova Putama	F	2	2015	9	D'Academy	0	0	FTV	0
+Mahrita Mauliyani	F	2	2015	10	D'Academy	0	0	No	0
+Titik Sanova	F	2	2015	11	D'Academy	0	0	No	0
+Tria Aprilia Wulandari	F	2	2015	12	D'Academy	0	0	FTV	0
+Muhammad Irsyad Basir	M	3	2016	1	D'Academy	2	0	"Solo, FTV"	338
+Weni Wahyuni	F	3	2016	2	D'Academy	0	0	Solo	3521
+Irsya Cendikiawan	M	3	2016	3	D'Academy	0	0	No	0
+Nurafni	F	3	2016	4	D'Academy	0	0	No	0
+Duo Alfin	G	3	2016	5	D'Academy	0	0	No	0
+Muhammad Rafly Heriawan	M	3	2016	6	D'Academy	0	0	No	0
+Ismail Kadir	M	3	2016	7	D'Academy	0	0	Solo	0
+Anggun Merdekawati	F	3	2016	8	D'Academy	0	0	No	0
+Sherly Marlinda	F	3	2016	9	D'Academy	0	0	No	0
+Dila Erista Aselolle	F	3	2016	10	D'Academy	0	0	No	0
+Anisya Cosmaningrum	F	3	2016	11	D'Academy	0	0	No	0
+Arin Wulan	F	3	2016	12	D'Academy	0	0	No	0
+Fildan Rahayu	F	4	2017	1	D'Academy	0	0	No	0
+Putri Isnari	F	4	2017	2	D'Academy	0	0	No	0
+Aulia	F	4	2017	3	D'Academy	0	0	No	0
+Teguh Purwa Saputra	M	4	2017	4	D'Academy	0	0	No	0
+Arland Singh	M	4	2017	5	D'Academy	0	0	No	0
+Firdaus Sanjaya	M	4	2017	6	D'Academy	0	0	No	0
+Raiga Denindra	M	4	2017	7	D'Academy	0	0	Solo	0
+Muhammad Hafiz	M	4	2017	8	D'Academy	0	0	No	0
+Sugeng Hidayaturrahman	M	4	2017	9	D'Academy	0	0	No	0
+Azizah Ismi Hayrunisa	F	4	2017	10	D'Academy	0	0	No	0
+Muhammad Abdul Nabi	M	4	2017	11	D'Academy	0	0	No	0
+Poppy Widiarti Taubari	F	4	2017	12	D'Academy	0	0	No	0

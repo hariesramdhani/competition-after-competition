@@ -1,0 +1,30 @@
+[
+    {
+        "season": 1,
+        "popularity": 0.17
+    }, {
+        "season": 2,
+        "popularity": 0.33
+    }, {
+        "season": 3,
+        "popularity": 0.27
+    }, {
+        "season": 4,
+        "popularity": 0.42
+    }, {
+        "season": 5,
+        "popularity": 0.42
+    }, {
+        "season": 6,
+        "popularity": 0.82
+    }, {
+        "season": 7,
+        "popularity": 0.67
+    }, {
+        "season": 8,
+        "popularity": 0.75
+    }, {
+        "season": 9,
+        "popularity": 0.5
+    }
+]
