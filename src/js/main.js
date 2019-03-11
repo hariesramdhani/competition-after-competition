@@ -4,7 +4,7 @@ import {comparison} from './comparison.js';
 // import {airdateTimeline} from './airdateTimeline.js';
 // import {popularityBySeason} from './popularityBySeason.js';
 
-const dataPath = "/src/assets/data"
+const dataPath = "src/assets/data"
 
 popularityHeatmap("story-heatmap", `${dataPath}/contenders.txt`);
 firstAwardTimeline("story-timeline", `${dataPath}/top10_data.json`);
