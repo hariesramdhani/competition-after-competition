@@ -48,9 +48,6 @@ export const popularityHeatmap = function(id, filename) {
     let legendLabel = null;
 
     d3.tsv(filename, (error, data) => {
-
-        console.log(data);
-        
         if (error) {
             throw error;
         }
